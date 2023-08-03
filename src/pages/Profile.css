@@ -1,0 +1,32 @@
+.font-type {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img-profile-setting {
+  border-radius: 50%;
+}
+
+.profile-pic-setting {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.git-button-darkcolor {
+  --background: #0000;
+}
+
+.instagram-button-color {
+  --background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(255, 35, 35, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}
+
+ion-button {
+  text-transform: none;
+}
